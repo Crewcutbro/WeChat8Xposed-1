@@ -1,0 +1,2 @@
+include ':Wechat78Spellbook'
+include ':app'
