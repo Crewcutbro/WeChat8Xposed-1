@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeChat8Xposed.iml" filepath="$PROJECT_DIR$/.idea/modules/WeChat8Xposed.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wechat78Spellbook/WeChat8Xposed.Wechat78Spellbook.iml" filepath="$PROJECT_DIR$/.idea/modules/Wechat78Spellbook/WeChat8Xposed.Wechat78Spellbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wechat8Spellbook/WeChat8Xposed.Wechat8Spellbook.iml" filepath="$PROJECT_DIR$/.idea/modules/Wechat8Spellbook/WeChat8Xposed.Wechat8Spellbook.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app_xposed/WeChat8Xposed.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app_xposed/WeChat8Xposed.app.iml" />
     </modules>
   </component>
