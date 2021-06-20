@@ -1,7 +1,8 @@
 # 项目说明
 
-本项目拷贝自 Gh0u1L5/WechatSpellbook
+本项目拷贝自 [https://github.com/Gh0u1L5/WechatSpellbook](https://github.com/Gh0u1L5/WechatSpellbook)
 
+个人尝试做新版微信的适配计划
 
 ## 更新说明
 
@@ -77,6 +78,17 @@ java.lang.Error: Failed to evaluate NotificationManagerCompat
 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2091)
 ```
 
+### 如何修复这个异常
+
+这个异常意味着特征类没有找到 需要重新制作特征类 也就是要重新适配路径
+
+核心就在mirror文件夹下面 有所有通用映射规则的 也就是wechat应用程序包的类结构映射。
+
+哪个类出现异常就要修复哪个类的问题
+
+
+
+
 ## 使用说明
 
 Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架
@@ -93,15 +105,15 @@ Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架
 
 ## 一些相关的笔记 如何依赖 Wechat78Spellbook 做插件开发
 
-[1.WechatSpellbook通用hook框架适配新版微信-单元测试适配]()
-[2.WechatSpellbook通用hook框架适配新版微信-修复NotificationManagerCompat]()
-[3.WechatSpellbook通用hook框架适配新版微信]()
-[4.WechatSpellbook通用hook框架适配新版微信]()
-[5.WechatSpellbook通用hook框架适配新版微信]()
-[6.WechatSpellbook通用hook框架适配新版微信]()
-[7.WechatSpellbook通用hook框架适配新版微信]()
-[8.WechatSpellbook通用hook框架适配新版微信]()
-[9.WechatSpellbook通用hook框架适配新版微信]()
-[10.WechatSpellbook通用hook框架适配新版微信]()
-[11.WechatSpellbook通用hook框架适配新版微信]()
-[12.WechatSpellbook通用hook框架适配新版微信]()
+[1.WeChat78Xposed通用hook框架适配新版微信-单元测试适配]()
+[2.WeChat78Xposed通用hook框架适配新版微信-修复NotificationManagerCompat]()
+[3.WeChat78Xposed通用hook框架适配新版微信]()
+[4.WeChat78Xposed通用hook框架适配新版微信]()
+[5.WeChat78Xposed通用hook框架适配新版微信]()
+[6.WeChat78Xposed通用hook框架适配新版微信]()
+[7.WeChat78Xposed通用hook框架适配新版微信]()
+[8.WeChat78Xposed通用hook框架适配新版微信]()
+[9.WeChat78Xposed通用hook框架适配新版微信]()
+[10.WeChat78Xposed通用hook框架适配新版微信]()
+[11.WeChat78Xposed通用hook框架适配新版微信]()
+[12.WeChat78Xposed通用hook框架适配新版微信]()
