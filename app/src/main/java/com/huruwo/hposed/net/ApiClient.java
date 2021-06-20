@@ -25,7 +25,7 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 public class ApiClient {
 
     public static String getApiHost() {
-        return "http://39.104.73.49:9090";
+        return "http://127.0.0.1:80";
     }
 
     public static final HashMap<String, List<Cookie>> cookieStore = new HashMap<>();
