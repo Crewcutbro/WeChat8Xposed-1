@@ -113,14 +113,25 @@ Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架
 ## 一些相关的笔记 如何依赖 Wechat78Spellbook 做插件开发
 
 [1.WeChat78Xposed通用hook框架适配新版微信-单元测试适配]()
+
 [2.WeChat78Xposed通用hook框架适配新版微信-修复NotificationManagerCompat]()
+
 [3.WeChat78Xposed通用hook框架适配新版微信]()
+
 [4.WeChat78Xposed通用hook框架适配新版微信]()
+
 [5.WeChat78Xposed通用hook框架适配新版微信]()
+
 [6.WeChat78Xposed通用hook框架适配新版微信]()
+
 [7.WeChat78Xposed通用hook框架适配新版微信]()
+
 [8.WeChat78Xposed通用hook框架适配新版微信]()
+
 [9.WeChat78Xposed通用hook框架适配新版微信]()
+
 [10.WeChat78Xposed通用hook框架适配新版微信]()
+
 [11.WeChat78Xposed通用hook框架适配新版微信]()
+
 [12.WeChat78Xposed通用hook框架适配新版微信]()
