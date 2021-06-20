@@ -110,7 +110,7 @@ Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架
 1.提供一套合理的框架给第三方开发者 简化开发步骤
 2.通过apk的dex分析做出一套忽略版本的差异的 并且可以添加新的特征规则
 
-## 一些相关的笔记 如何依赖 Wechat78Spellbook 做插件开发
+## 一些相关的笔记 如何依赖 Wechat8Spellbook 做插件开发
 
 [1.WeChat78Xposed通用hook框架适配新版微信-单元测试适配]()
 
@@ -135,3 +135,4 @@ Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架
 [11.WeChat78Xposed通用hook框架适配新版微信]()
 
 [12.WeChat78Xposed通用hook框架适配新版微信]()
+
