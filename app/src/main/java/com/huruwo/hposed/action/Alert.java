@@ -23,7 +23,7 @@ public class Alert implements IActivityHook {
 
     @Override
     public void onActivityStarting(@NotNull Activity activity) {
-        Toast.makeText(activity, "Hello Wechat!", Toast.LENGTH_LONG).show();
+        Toast.makeText(activity, "Hello Wechat2021!", Toast.LENGTH_LONG).show();
     }
 
     @Override
