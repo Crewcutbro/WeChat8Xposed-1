@@ -57,5 +57,7 @@ Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架
 
 2.通过apk的dex分析做出一套忽略版本的差异的 并且可以添加新的特征规则
 
+## 鸣谢
 
+[https://github.com/Gh0u1L5](https://github.com/Gh0u1L5) 提供的项目[https://github.com/Gh0u1L5/WechatSpellbook](https://github.com/Gh0u1L5/WechatSpellbook)支持
 
