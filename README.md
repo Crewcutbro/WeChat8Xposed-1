@@ -9,9 +9,9 @@
 
 ## 为了方便大家理解 本人做了一些相关的笔记 如何依赖 Wechat8Spellbook 做插件开发
 
-[1.WeChat78Xposed通用hook框架适配新版微信-单元测试适配](https://www.huruwo.top/wechat78xposed%e9%80%9a%e7%94%a8hook%e6%a1%86%e6%9e%b6%e9%80%82%e9%85%8d%e6%96%b0%e7%89%88%e5%be%ae%e4%bf%a1-%e5%8d%95%e5%85%83%e6%b5%8b%e8%af%95%e9%80%82%e9%85%8d%e6%96%b0%e5%be%ae%e4%bf%a1/)
+[1.WeChat8Xposed通用hook框架适配新版微信-单元测试适配](https://www.huruwo.top/wechat8xposed%e9%80%9a%e7%94%a8hook%e6%a1%86%e6%9e%b6%e9%80%82%e9%85%8d%e6%96%b0%e7%89%88%e5%be%ae%e4%bf%a1-%e5%8d%95%e5%85%83%e6%b5%8b%e8%af%95%e9%80%82%e9%85%8d%e6%96%b0%e5%be%ae%e4%bf%a1/)
 
-[2.WeChat78Xposed通用hook框架适配新版微信-修复NotificationManagerCompat](https://www.huruwo.top/wechat78xposed%e9%80%9a%e7%94%a8hook%e6%a1%86%e6%9e%b6%e9%80%82%e9%85%8d%e6%96%b0%e7%89%88%e5%be%ae%e4%bf%a1-%e4%bf%ae%e5%a4%8dnotificationmanagercompat%e9%80%82%e9%85%8d%e5%bc%82%e5%b8%b8/)
+[2.WeChat8Xposed通用hook框架适配新版微信-修复NotificationManagerCompat](https://www.huruwo.top/wechat8xposed%e9%80%9a%e7%94%a8hook%e6%a1%86%e6%9e%b6%e9%80%82%e9%85%8d%e6%96%b0%e7%89%88%e5%be%ae%e4%bf%a1-%e4%bf%ae%e5%a4%8dnotificationmanagercompat%e9%80%82%e9%85%8d%e5%bc%82%e5%b8%b8/)
 
 [3.WeChat8Xposed通用hook框架适配新版微信]()
 
