@@ -13,25 +13,25 @@
 
 [2.WeChat78Xposed通用hook框架适配新版微信-修复NotificationManagerCompat](https://www.huruwo.top/wechat78xposed%e9%80%9a%e7%94%a8hook%e6%a1%86%e6%9e%b6%e9%80%82%e9%85%8d%e6%96%b0%e7%89%88%e5%be%ae%e4%bf%a1-%e4%bf%ae%e5%a4%8dnotificationmanagercompat%e9%80%82%e9%85%8d%e5%bc%82%e5%b8%b8/)
 
-[3.WeChat78Xposed通用hook框架适配新版微信]()
+[3.WeChat8Xposed通用hook框架适配新版微信]()
 
-[4.WeChat78Xposed通用hook框架适配新版微信]()
+[4.WeChat8Xposed通用hook框架适配新版微信]()
 
-[5.WeChat78Xposed通用hook框架适配新版微信]()
+[5.WeChat8Xposed通用hook框架适配新版微信]()
 
-[6.WeChat78Xposed通用hook框架适配新版微信]()
+[6.WeChat8Xposed通用hook框架适配新版微信]()
 
-[7.WeChat78Xposed通用hook框架适配新版微信]()
+[7.WeChat8Xposed通用hook框架适配新版微信]()
 
-[8.WeChat78Xposed通用hook框架适配新版微信]()
+[8.WeChat8Xposed通用hook框架适配新版微信]()
 
-[9.WeChat78Xposed通用hook框架适配新版微信]()
+[9.WeChat8Xposed通用hook框架适配新版微信]()
 
-[10.WeChat78Xposed通用hook框架适配新版微信]()
+[10.WeChat8Xposed通用hook框架适配新版微信]()
 
-[11.WeChat78Xposed通用hook框架适配新版微信]()
+[11.WeChat8Xposed通用hook框架适配新版微信]()
 
-[12.WeChat78Xposed通用hook框架适配新版微信]()
+[12.WeChat8Xposed通用hook框架适配新版微信]()
 
 ## 更新说明
 
