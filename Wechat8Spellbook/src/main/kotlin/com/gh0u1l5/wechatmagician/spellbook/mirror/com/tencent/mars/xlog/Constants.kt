@@ -1,5 +1,8 @@
 package com.gh0u1l5.wechatmagician.spellbook.mirror.com.tencent.mars.xlog
 
+/**
+ * 常量正确
+ */
 object Constants {
     const val Xlog_AppenderModeAsync = 0
     const val Xlog_AppenderModeSync = 1

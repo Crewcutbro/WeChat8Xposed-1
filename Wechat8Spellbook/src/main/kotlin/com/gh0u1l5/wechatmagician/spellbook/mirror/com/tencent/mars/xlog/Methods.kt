@@ -4,6 +4,9 @@ import com.gh0u1l5.wechatmagician.spellbook.WechatGlobal.wxLazy
 import com.gh0u1l5.wechatmagician.spellbook.mirror.com.tencent.mars.xlog.Classes.Xlog
 import java.lang.reflect.Method
 
+/**
+ * 方法正确
+ */
 object Methods {
     val Xlog_logWrite: Method by wxLazy("Xlog_logWrite") {
         Xlog.declaredMethods.find { it.name == "logWrite" }

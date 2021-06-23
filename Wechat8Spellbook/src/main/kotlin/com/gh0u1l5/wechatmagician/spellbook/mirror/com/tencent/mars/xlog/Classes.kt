@@ -4,6 +4,9 @@ import com.gh0u1l5.wechatmagician.spellbook.WechatGlobal.wxLazy
 import com.gh0u1l5.wechatmagician.spellbook.WechatGlobal.wxLoader
 import com.gh0u1l5.wechatmagician.spellbook.util.ReflectionUtil.findClassIfExists
 
+/**
+ * 路径正确
+ */
 object Classes {
     val Xlog: Class<*> by wxLazy("Xlog") {
         findClassIfExists("com.tencent.mars.xlog.Xlog", wxLoader!!)
