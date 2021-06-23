@@ -9,6 +9,9 @@ import com.huruwo.hposed.utils.LogXUtils;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
+/**
+ * 测试数据库读写 包括消息的读写
+ */
 public class Message implements IDatabaseHook   {
     @NotNull
     @Override

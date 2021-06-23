@@ -10,6 +10,10 @@ import com.gh0u1l5.wechatmagician.spellbook.interfaces.IActivityHook;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
+/**
+ * 测试ActivityHook
+ */
+
 public class Alert implements IActivityHook {
     @Override
     public void onActivityCreating(@NotNull Activity activity, @Nullable Bundle bundle) {

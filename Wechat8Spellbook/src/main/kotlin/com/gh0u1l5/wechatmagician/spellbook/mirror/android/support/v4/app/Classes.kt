@@ -7,7 +7,8 @@ import com.gh0u1l5.wechatmagician.spellbook.util.ReflectionUtil.findClassesFromP
 
 object Classes {
     val NotificationManagerCompat: Class<*> by wxLazy("NotificationManagerCompat") {
-        findClassesFromPackage(wxLoader!!, wxClasses!!, "android.support.v4.app")
+        // v4切换成 androidx 兼容包
+        findClassesFromPackage(wxLoader!!, wxClasses!!, "androidx.core.app")
                 .filterByField("android.app.NotificationManager")
                 .firstOrNull()
     }
