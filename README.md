@@ -7,38 +7,27 @@
 因为原来的项目因为已经停更了很久 在新版的微信上会有些问题
 本人针对新版的微信 尤其是8版本 做了全新的适配 使其在新版的微信上也可以使用
 
+
+# 基于Wechat8Spellbook的聊天机器人项目
+
+[WeChatSimpleBot](https://github.com/HuRuWo/WeChatSimpleBot)
+
+- 目前代码还没有上传 因为包含了私人信息，需要处理
+
 ## 为了方便大家理解 本人做了一些相关的笔记 如何依赖 Wechat8Spellbook 做插件开发
 
 [1.WeChat8Xposed通用hook框架适配新版微信-单元测试适配](https://www.huruwo.top/wechat8xposed%e9%80%9a%e7%94%a8hook%e6%a1%86%e6%9e%b6%e9%80%82%e9%85%8d%e6%96%b0%e7%89%88%e5%be%ae%e4%bf%a1-%e5%8d%95%e5%85%83%e6%b5%8b%e8%af%95%e9%80%82%e9%85%8d%e6%96%b0%e5%be%ae%e4%bf%a1/)
 
 [2.WeChat8Xposed通用hook框架适配新版微信-修复NotificationManagerCompat](https://www.huruwo.top/wechat8xposed%e9%80%9a%e7%94%a8hook%e6%a1%86%e6%9e%b6%e9%80%82%e9%85%8d%e6%96%b0%e7%89%88%e5%be%ae%e4%bf%a1-%e4%bf%ae%e5%a4%8dnotificationmanagercompat%e9%80%82%e9%85%8d%e5%bc%82%e5%b8%b8/)
 
-[3.WeChat8Xposed通用hook框架适配新版微信]()
-
-[4.WeChat8Xposed通用hook框架适配新版微信]()
-
-[5.WeChat8Xposed通用hook框架适配新版微信]()
-
-[6.WeChat8Xposed通用hook框架适配新版微信]()
-
-[7.WeChat8Xposed通用hook框架适配新版微信]()
-
-[8.WeChat8Xposed通用hook框架适配新版微信]()
-
-[9.WeChat8Xposed通用hook框架适配新版微信]()
-
-[10.WeChat8Xposed通用hook框架适配新版微信]()
-
-[11.WeChat8Xposed通用hook框架适配新版微信]()
-
-[12.WeChat8Xposed通用hook框架适配新版微信]()
 
 ## 更新说明
 
 |更新时间| 更新内容|更新说明|
 |----|----| ----|
 | 更新计划 | 更加详细的开发文档编写 ||
-| 更新计划 | com.tencent.mm 下的兼容特征值更新||
+|更新计划|com.tencent.mm modelsfs 异常修复||
+| 2021-8-9 | com.tencent.mm notification异常修复 |notification和消息通知相关的兼容类|
 |2021-6-23 | 验证修复wcdb包下的类是否路径异常做修复调整||
 |2021-6-20 | 修正部分类的特征值 包括有 NotificationManagerCompat 等类的视频 即v4兼容包切换到 androidx 兼容包||
 |2021-6-19  |测试代码测试最新版微信的适配程度||

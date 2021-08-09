@@ -9,9 +9,10 @@ import com.gh0u1l5.wechatmagician.spellbook.util.ReflectionUtil.findClassIfExist
 import com.gh0u1l5.wechatmagician.spellbook.util.ReflectionUtil.findClassesFromPackage
 
 object Classes {
+
     val MMNotification: Class<*> by wxLazy("MMNotification") {
         findClassesFromPackage(wxLoader!!, wxClasses!!, "$wxPackageName.booter.notification")
-                .filterByMethod(null, "notify", C.Int, C.Notification)
+                .filterByField("talker")
                 .firstOrNull()
     }
 
