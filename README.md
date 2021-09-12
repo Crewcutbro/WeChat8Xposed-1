@@ -1,3 +1,15 @@
+
+## 新增基于WeChat8Xposed的微信机器人示例
+
+提供基本的功能:
+
+1.微信群消息自动接收
+2.微信群消息自动回复
+3.关键词触发以及后台管理
+
+
+-------------------------
+
 # 项目说明
 
 本项目拷贝自 [https://github.com/Gh0u1L5/WechatSpellbook](https://github.com/Gh0u1L5/WechatSpellbook)
